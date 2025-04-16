@@ -1,7 +1,7 @@
 {
   "domain": "geeklandia.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff0000",
+  "primary_color": "#a2a2a2",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "ecom-beauty"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#0061ff",
+  "secondary_color": "#1f1f1f",
   "icon": "/img/icon.png",
   "store_id": 51598,
   "description": "geeklandia",
